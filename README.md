@@ -67,7 +67,3 @@ Account details saved to file.
 
 
 ---
-
-✅ **Short GitHub Description (for the repo header):**  
-> A console-based Bank Management System in C++ demonstrating OOP concepts like inheritance, polymorphism, and file handling.
-
