@@ -59,7 +59,7 @@ Account details saved to file.
 4. Send Money
 5. Exit
 
-Author
+👨‍💻 Author
 
 Abdul Mannan
 🎓 BS Computer Science — National University of Computer and Emerging Sciences
