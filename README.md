@@ -59,9 +59,9 @@ Account details saved to file.
 4. Send Money
 5. Exit
 
-**👨‍💻 Author
+## 👨‍💻 Author
 
-Abdul Mannan**
+**Abdul Mannan**
 🎓 BS Computer Science — National University of Computer and Emerging Sciences
 📅 Year 1, Semester 2
 
