@@ -41,9 +41,12 @@ It simulates core banking operations while demonstrating essential OOP principle
 
 ## 📂 Project Structure
 
-Bank-Management-System/
+Bank-Management-System/  
+
 │── main.cpp # Main program file
+
 │── accountNumber.txt # Auto-generated account details
+
 └── README.md # Documentation
 
 
