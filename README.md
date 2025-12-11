@@ -51,18 +51,15 @@ Bank-Management-System/
 
 ## 🚀 How to Run
 
-### **1. Clone the repository**
-```sh
+### 1. Clone the repository
 git clone https://github.com/<your-username>/Bank-Management-System.git
 cd Bank-Management-System
 
----
-
-### **2. Compile**
-
+### 2. Compile
 g++ main.cpp -o bank
 
-3. Run
-./bank
+### 3. Run
+./bank      # On Linux/Mac
+bank.exe    # On Windows
 
 
